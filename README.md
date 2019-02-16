@@ -21,6 +21,11 @@ For press and other inquiries, please contact Hector Marinez at [hmarinez@nvidia
 
 ## Resources
 
+
+ЖЖЖЖООООООООПААААААААААААА
+
+
+
 All material related to our paper is available via the following links:
 
 | Link                      | Description
